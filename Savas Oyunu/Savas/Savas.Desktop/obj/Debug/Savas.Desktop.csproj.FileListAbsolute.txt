@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\obj\Debug\Savas.Desktop.AnaForm.resources
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\obj\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\bin\Debug\SavasOyunu.exe.config
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\bin\Debug\SavasOyunu.exe
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\bin\Debug\SavasOyunu.pdb
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\obj\Debug\SavasOyunu.exe
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\obj\Debug\SavasOyunu.pdb
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\bin\Debug\Savas.Library.dll
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\bin\Debug\Savas.Library.pdb
+C:\Users\asus\Desktop\aktif projeler\Savas Oyunu\Savas\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CopyComplete
